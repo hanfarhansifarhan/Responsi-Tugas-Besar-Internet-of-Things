@@ -18,7 +18,7 @@
 | 1 | Muhammad Nabil Zaedan Agesy | H1H024062 | [@BillyUdin](https://github.com/BillyUdin) |
 | 2 | [Nama Anggota 2] | [NIM] | [@username](https://github.com/username) |
 | 3 | [Nama Anggota 3] | [NIM] | [@username](https://github.com/username) |
-| 4 | [Nama Anggota 4] | [NIM] | [@username](https://github.com/username) |
+| 4 | Wendy Virtus | H1H024048 | [@wewen06](https://github.com/wewen06) |
 
 ## Gambaran Umum Sistem
 
